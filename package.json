@@ -1,0 +1,27 @@
+{
+  "name": "NodeExpressMONGOJS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YOmicha/NodeExpressMONGOJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YOmicha/NodeExpressMONGOJS/issues"
+  },
+  "homepage": "https://github.com/YOmicha/NodeExpressMONGOJS#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "jsonwebtoken": "^7.4.1",
+    "lodash": "^4.17.4",
+    "mongoose": "^4.11.1"
+  }
+}
